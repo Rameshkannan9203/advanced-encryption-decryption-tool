@@ -56,9 +56,9 @@ advanced-encryption-decryption-tool/
 ## ⚙️ Installation
 
 ### 1️⃣ Install Dependencies
-```bash
+bash
 pip install flask cryptography
-```
+
 
 ### 2️⃣ Run Backend
 ```bash
